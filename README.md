@@ -1,6 +1,6 @@
 # 🚀 fast-graphql
 
-Graphql Tools to Strucutre , Combine Resolvers , Merge Schema Definitions and generate schema file for Node.js / Next.Js / Graphql Apollo server
+Graphql Tools to Structure , Combine Resolvers , Merge Schema Definitions and generate schema file for Node.js / Next.Js / Graphql Apollo server
 
 Topics
 
